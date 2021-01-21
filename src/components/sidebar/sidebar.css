@@ -1,0 +1,16 @@
+.sidebar {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.sidebar__btn {
+    padding: 20px;
+    text-align: center;
+    font-size: 12px;
+}
+.sidebar__btn--liked {
+    color: red;
+}
