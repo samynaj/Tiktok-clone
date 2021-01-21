@@ -1,5 +1,6 @@
 import React, { useState, useRef } from 'react';
 import Footer from '../footer/footer';
+import Sidebar from '../sidebar/sidebar';
 import './video.css';
 
 export default function Video() {
@@ -30,6 +31,7 @@ export default function Video() {
                  description="check this dance #fyp #foryoupage #savagelovechallenge"
                  song="Jason Derulo - Savage love"
             />
+            <Sidebar />
         </div>
     )
 }
