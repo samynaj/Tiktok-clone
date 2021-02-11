@@ -28,7 +28,7 @@ function Sidebar() {
             </div>
             <div className="sidebar__btn">
                 <ShareIcon fontSize="large" />
-                <p>200</p>
+                <p>500</p>
             </div>
             
         </div>
